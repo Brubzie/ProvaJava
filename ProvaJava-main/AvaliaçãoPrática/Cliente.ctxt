@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=nome\ endereco
+comment1.target=Cliente(java.lang.String,\ java.lang.String)
+comment2.params=item
+comment2.target=void\ adicionarAoPedido(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=java.lang.String\ getEndereco()
+comment5.params=
+comment5.target=java.util.ArrayList\ getPedido()
+numComments=6
